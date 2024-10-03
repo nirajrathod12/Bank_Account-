@@ -42,7 +42,3 @@ end
 objbank = Bankaccount.new("Niraj Rathod" , 40000)
  
 objbank.account_details()
-
-
-
-
